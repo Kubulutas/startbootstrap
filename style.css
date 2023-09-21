@@ -1,0 +1,6 @@
+body::before{
+    display: block;
+    content: '';
+    height: 60px; /* navbar ve section arası boşluk olmuş oldu çünkü navbar'a fixed-top vermiştik. üst üste durmasınlar diye sıradaki elemanı 60px aşağıdan başlattık */
+ 
+}
