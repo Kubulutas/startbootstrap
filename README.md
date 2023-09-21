@@ -4,4 +4,4 @@
 
 <h1>Ekran Kaydı <h1>
 
-![](first-bootstrap.gif)
+![](first.gif)
